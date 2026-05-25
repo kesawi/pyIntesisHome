@@ -1,5 +1,7 @@
 # pyIntesisHome
 
+*This project has been forked from [@jnimmo](https://github.com/jnimmo)'s [pyIntesisHome](https://github.com/jnimmo/pyIntesisHome) for my personal use and has been modified to suit my own needs. Use at your own risk.*
+
 This project is a python3 library for interfacing with Intesis air conditioning controllers, including cloud control of IntesisHome (Airconwithme + anywAiR) and local control of IntesisBox devices.
 It is fully asynchronous using the aiohttp library, and utilises the private API used by the IntesisHome mobile apps.
 
